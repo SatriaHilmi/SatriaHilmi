@@ -28,4 +28,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h2 align="center">🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅷🅴🅲🅺🅸🅽🅶 🅾🆄🆃 🅼🆈 🅿🅰🅶🅴!</h2>
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvNmlic3g3YTIycWc4eTdzd3phNnNzdDlhN3F0dm1taGR4M2dndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cefl6ci2zgWYYU/giphy.gif">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
