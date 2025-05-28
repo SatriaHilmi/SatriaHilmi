@@ -1,3 +1,7 @@
+<div align="center">
+<img src="tumbnail.png">
+</div>
+
 # 💫 About Me:
 🔭 I’m currently student on Polytechnic State of Jember<br>👯 I’m looking to collaborate on everyone<br>🤝 I’m looking for help with everyone<br>🌱 I’m currently self learning<br>💬 Ask me about code<br>⚡ Fun fact i'm still in here
 
