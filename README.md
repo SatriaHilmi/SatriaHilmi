@@ -28,7 +28,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2 align="center">🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅷🅴🅲🅺🅸🅽🅶 🅾🆄🆃 🅼🆈 🅿🅰🅶🅴!</h2>
+<h2 align="center">𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕔𝕙𝕖𝕔𝕜𝕚𝕟𝕘 𝕠𝕦𝕥 𝕞𝕪 𝕡𝕒𝕘𝕖!</h2>
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvNmlic3g3YTIycWc4eTdzd3phNnNzdDlhN3F0dm1taGR4M2dndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cefl6ci2zgWYYU/giphy.gif">
 </div>
