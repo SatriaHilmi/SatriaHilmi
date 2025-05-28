@@ -32,4 +32,9 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvNmlic3g3YTIycWc4eTdzd3phNnNzdDlhN3F0dm1taGR4M2dndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cefl6ci2zgWYYU/giphy.gif">
 </div>
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=40&duration=4000&pause=300&color=D8F70E&lines=~Yeaayy!!!">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
