@@ -35,6 +35,6 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=40&duration=4000&pause=300&color=D8F70E&lines=~Yeaayy!!!">
+<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=300&color=D8F70E&width=435&lines=~Yeaayy!!!)](https://git.io/typing-svg)">
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
