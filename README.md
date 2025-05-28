@@ -1,5 +1,5 @@
 <div align="center">
-<img src="tumbnail.png">
+<img src="tumbnail2.png">
 </div>
 
 # 💫 About Me:
