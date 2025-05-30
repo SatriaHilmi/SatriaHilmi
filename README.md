@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SatriaHilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
 </p>
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=SatriaHilmi&theme=dark&hide_border=false" height="150"><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SatriaHilmi&theme=dark&hide_border=false" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaHilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150">
 </p>
 
