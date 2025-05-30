@@ -71,5 +71,9 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=300&color=D8F70E&center=true&vCenter=true&width=435&lines=~Yeaayy!!!">
-</div>
+</div><br/>
+
+<a href="https://trakteer.id/redist.id/tip">
+    <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025">
+  </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
