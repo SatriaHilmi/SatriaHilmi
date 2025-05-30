@@ -75,6 +75,6 @@
 
   <p height="30">𝕁𝕒𝕟𝕘𝕒𝕟 𝕝𝕦𝕡𝕒 𝕔𝕖𝕟𝕕𝕠𝕝𝕟𝕪𝕒 𝕓𝕒𝕟𝕘</p>
   <a href="https://trakteer.id/redist.id/tip">
-    <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="30">
+    <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="35">
   </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
