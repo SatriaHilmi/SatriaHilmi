@@ -74,6 +74,6 @@
 </div><br/>
 
 <a href="https://trakteer.id/redist.id/tip">
-    <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="20">
+    <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="25">
   </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
