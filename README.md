@@ -15,9 +15,9 @@
 # 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SatriaHilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
+</p>
 <img src="https://nirzak-streak-stats.vercel.app/?user=SatriaHilmi&theme=dark&hide_border=false" height="150"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaHilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150">
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SatriaHilmi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
