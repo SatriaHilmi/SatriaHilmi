@@ -8,7 +8,7 @@
 <h2>
 Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
 I'm Strasln
-</h2>
+</h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
 
 <p>
 23 y.o fresh graduate software developer with strong enthusiasm for technology and coding, specializing in both front-end and back-end development for web applications.
