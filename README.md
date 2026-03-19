@@ -9,7 +9,10 @@
 Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Strasln, i'am 23 y.o fresh graduate software developer with strong enthusiasm for technology and coding, specializing in both front-end and back-end development for web applications.
 </div><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EFF72C&center=true&width=435&lines=Hi+there+i'am+Strasln;Graduated+from+Jember+State+Polytechnic;Let+make+some+amazing...)](https://git.io/typing-svg)
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EFF72C&width=435&lines=Hi+there+i'am+Strasln;Graduated+from+Jember+State+Polytechnic;Let+make+some+amazing..." alt="Typing SVG" /></a>
+</div>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyOTk1eXNqNWNocHB1dG13Ymtsbjg1djQyc2IycjExeTV4ZHJsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="30"></img> Socials:
 <p align="center">
