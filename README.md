@@ -4,14 +4,20 @@
 
 <!-- # 💫 About Me:
 🔭 I’m currently student on Polytechnic State of Jember<br>👯 I’m looking to collaborate on everyone<br>🤝 I’m looking for help with everyone<br>🌱 I’m currently self learning<br>💬 Ask me about code<br>⚡ Fun fact i'm still in here -->
-
 <div align="center">
-Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Strasln, i'am 23 y.o fresh graduate software developer with strong enthusiasm for technology and coding, specializing in both front-end and back-end development for web applications.
+<h2>
+Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+I'm Strasln
+</h2>
+
+<p>
+23 y.o fresh graduate software developer with strong enthusiasm for technology and coding, specializing in both front-end and back-end development for web applications.
+</p>
 </div><br>
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EFF72C&width=435&lines=Hi+there+i'am+Strasln;Graduated+from+Jember+State+Polytechnic;Let+make+some+amazing..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EFF72C&center=true&vCenter=true&width=500&lines=Hi+there+i'am+Strasln;Graduated+from+Jember+State+Polytechnic;Let+make+some+amazing..." alt="Typing SVG" /></a>
 </div>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyOTk1eXNqNWNocHB1dG13Ymtsbjg1djQyc2IycjExeTV4ZHJsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="30"></img> Socials:
