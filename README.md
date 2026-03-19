@@ -48,7 +48,7 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="h-50px;">
 </p>
 
 <!-- ### 🔝 Top Contributed Repo
