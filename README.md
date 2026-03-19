@@ -38,18 +38,23 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaHilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SatriaHilmi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SatriaHilmi&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=SatriaHilmi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-</p>
+</p> -->
 
 ---
 <picture>
@@ -63,15 +68,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture> -->
 
-<h2 align="center">𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕔𝕙𝕖𝕔𝕜𝕚𝕟𝕘 𝕠𝕦𝕥 𝕞𝕪 𝕡𝕒𝕘𝕖!</h2>
+<!-- <h2 align="center">𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕔𝕙𝕖𝕔𝕜𝕚𝕟𝕘 𝕠𝕦𝕥 𝕞𝕪 𝕡𝕒𝕘𝕖!</h2>
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvNmlic3g3YTIycWc4eTdzd3phNnNzdDlhN3F0dm1taGR4M2dndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cefl6ci2zgWYYU/giphy.gif">
 </div>
-<br>
+<br> -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=300&color=D8F70E&center=true&vCenter=true&width=435&lines=~Yeaayy!!!">
-</div><br/>
+</div><br/> -->
 
   <p height="30">𝕁𝕒𝕟𝕘𝕒𝕟 𝕝𝕦𝕡𝕒 𝕔𝕖𝕟𝕕𝕠𝕝𝕟𝕪𝕒 𝕓𝕒𝕟𝕘</p>
   <a href="https://trakteer.id/redist.id/tip">
