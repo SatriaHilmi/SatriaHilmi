@@ -58,7 +58,8 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   1 hr 14 mins          ███████████████████████▓░   94.83 %
+YAML       4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
