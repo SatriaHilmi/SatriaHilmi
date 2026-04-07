@@ -12,7 +12,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOWW_TOTAL: 'true'
+          SHOW_TIME: 'true'
+          TIME_RANGE: 'all_time'
