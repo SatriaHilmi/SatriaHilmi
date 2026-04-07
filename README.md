@@ -69,8 +69,6 @@ JavaScript   1 min                 ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Code Time](https://img.shields.io/badge/dynamic/json?color=blue&label=Code%20Time&query=data.text&url=https://wakatime.com/api/v1/users/SatriaHilmi/stats/all_time)
-
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SatriaHilmi&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
