@@ -58,7 +58,11 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   1 hr 56 mins          █████████████████████████   100.00 %
+HTML         2 hrs 23 mins         ██████████░░░░░░░░░░░░░░░   40.07 %
+TypeScript   2 hrs 12 mins         █████████▒░░░░░░░░░░░░░░░   36.99 %
+Markdown     1 hr 14 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+YAML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
