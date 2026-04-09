@@ -60,15 +60,15 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 06 April 2026
+From: 18 March 2026 - To: 07 April 2026
 
-Total Time: 5 hrs 59 mins
+Total Time: 7 hrs 40 mins
 
-HTML         2 hrs 23 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   40.07 %
-TypeScript   2 hrs 12 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   36.99 %
-Markdown     1 hr 14 mins          ⣀⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   20.78 %
-YAML         4 mins                ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.13 %
-JavaScript   1 min                  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.45 %
+TypeScript   3 hrs 5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   40.35 %
+HTML         2 hrs 49 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   36.86 %
+Markdown     1 hr 23 mins          ⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   18.24 %
+YAML         17 mins               ⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   03.74 %
+JavaScript   1 min                  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.35 %
 ```
 
 <!--END_SECTION:waka-->
