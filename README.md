@@ -60,7 +60,7 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 07 April 2026
+From: 18 March 2026 - To: 08 April 2026
 
 Total Time: 7 hrs 40 mins
 
