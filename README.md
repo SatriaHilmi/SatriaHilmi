@@ -60,7 +60,7 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 09 April 2026
+Total Time: 8 hrs 15 mins
 
 HTML         3 hrs 24 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   41.29 %
 TypeScript   3 hrs 5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   37.52 %
