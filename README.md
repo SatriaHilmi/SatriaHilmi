@@ -60,13 +60,13 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 hrs 19 mins
+Total Time: 36 hrs 44 mins
 
-TypeScript       23 hrs 27 mins        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿   64.57 %
-PHP              6 hrs 38 mins         ⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   18.28 %
-HTML             3 hrs 24 mins         ⣀⣀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   09.38 %
-Markdown         1 hr 45 mins          ⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   04.85 %
-YAML             22 mins               ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.03 %
+TypeScript       23 hrs 52 mins        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿   64.97 %
+PHP              6 hrs 38 mins         ⣀⣀⣀⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   18.07 %
+HTML             3 hrs 24 mins         ⣀⣀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   09.27 %
+Markdown         1 hr 45 mins          ⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   04.80 %
+YAML             22 mins               ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.01 %
 ```
 
 <!--END_SECTION:waka-->
