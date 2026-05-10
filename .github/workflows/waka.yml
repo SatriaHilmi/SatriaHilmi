@@ -20,4 +20,4 @@ jobs:
           TIME_RANGE: 'all_time'
           LANGUAGE_COUNT: '5'
           SHOW_MASKED_TIME: 'true'
-          BLOCKS: "⣿ ⣷ ⣯ ⣟ ⡿ ⢿ ⣻ ⣽"
+          BLOCKS: "█▓▒░"
