@@ -67,7 +67,7 @@ I'm Strasln
 ```txt
 Total Time: 47 hrs 7 mins
 
-TypeScript       32 hrs 41 mins        ░░░░░░░░░░░░░░░░░████████   69.36 %
+TypeScript       32 hrs 41 mins        ░░░░░░░░░░░░░░░░░████████   69.37 %
 PHP              6 hrs 38 mins         ░░░░█████████████████████   14.09 %
 HTML             3 hrs 26 mins         ░░███████████████████████   07.31 %
 Markdown         2 hrs 54 mins         ░░███████████████████████   06.16 %
