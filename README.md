@@ -65,13 +65,13 @@ I'm Strasln
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 86 hrs 23 mins
+Total Time: 87 hrs 9 mins
 
-TypeScript       45 hrs 42 mins        ░░░░░░░░░░░░░████████████   52.91 %
-Astro            22 hrs 56 mins        ░░░░░░░██████████████████   26.56 %
-PHP              6 hrs 38 mins         ░░███████████████████████   07.69 %
-HTML             3 hrs 26 mins         ░████████████████████████   03.99 %
-Markdown         2 hrs 58 mins         ░████████████████████████   03.44 %
+TypeScript       45 hrs 42 mins        ░░░░░░░░░░░░░████████████   52.44 %
+Astro            23 hrs 42 mins        ░░░░░░░██████████████████   27.20 %
+PHP              6 hrs 38 mins         ░░███████████████████████   07.62 %
+HTML             3 hrs 26 mins         ░████████████████████████   03.95 %
+Markdown         2 hrs 58 mins         ░████████████████████████   03.41 %
 ```
 
 <!--END_SECTION:waka-->
