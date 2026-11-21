@@ -18,6 +18,6 @@ jobs:
           SHOW_TOTAL: "true"
           SHOW_TIME: "true"
           TIME_RANGE: "all_time"
-          LANGUAGE_COUNT: "5"
+          LANG_COUNT: "5"
           SHOW_MASKED_TIME: "true"
           BLOCKS: "█░"
